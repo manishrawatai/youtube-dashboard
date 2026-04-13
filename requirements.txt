@@ -1,4 +1,8 @@
 streamlit
 pandas
+plotly
 google-api-python-client
 pytz
+wordcloud
+matplotlib
+numpy
